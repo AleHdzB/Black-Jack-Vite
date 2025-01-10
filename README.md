@@ -14,6 +14,10 @@ The goal of this project is to practice fundamental concepts of JavaScript, HTML
 - 📜 **Clear rules**: Implementation of basic Black Jack rules.  
 - 🖱️ **Intuitive controls**: Buttons to draw cards, stand, and restart the game.  
 
+## Live Demo
+
+Explore the app here: [Black Jack](https://alehdzb-blackjack-vite.netlify.app/)
+
 ## 🛠️ Technologies Used  
 
 - **HTML5** for the structure of the page.  
